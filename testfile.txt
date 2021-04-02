@@ -1,3 +1,1 @@
-This is the second test file
-This is another commit from local
-this is ssh file test
+This is the test filee
