@@ -5,3 +5,4 @@ A\ hotfix\ or\ quick-fix\ engineering\ update\ \(QFE\ update\)\ is\ a\ single\,\
 
 This is for comparison
 This is sample for Stash lecture, change in file 1
+This is the stashed change for the untracked files for file 1
